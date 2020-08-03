@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Email Signature</title>
-</head>
+
+
 <body>
 <br/><br/><br/><br/><br/><br/>
 <table border="0" cellspacing="0" cellpadding="0" align="center" style="border:1px solid #c7c7c7;background-color:#f3f3f3;padding:10px">
