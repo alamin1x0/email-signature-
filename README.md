@@ -1,7 +1,3 @@
-# email-signature-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
