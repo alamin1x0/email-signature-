@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Email Signature</title>
+<title>Email Signature</title>
 </head>
 <body>
 <br/><br/><br/><br/><br/><br/>
